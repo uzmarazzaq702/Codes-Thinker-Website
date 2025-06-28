@@ -12,7 +12,10 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import { useEffect } from 'react';
 import Login from './pages/Login';
-import Signin from './pages/signin';
+// import Signin from './pages/signin';
+import Signin from "./pages/Signin";
+
+
 import Whatsap from './pages/Whatsap';
 
 import Project from './pages/Project';
